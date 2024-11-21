@@ -120,7 +120,7 @@ str(data3)
 
 #Save the file in the working directory
 #?write.csv
-write.csv(data3, file = "H66-3_mDelta_RAW.csv",row.names = FALSE)
+write.csv(data3, file = "H65-2_mDelta_RAW.csv",row.names = FALSE)
 
 
 #all negative values to 0
@@ -172,7 +172,7 @@ ggplot(data= data3, aes(Frames, Tracks, fill= mDeltaF))+
   theme(axis.text = element_blank())
 
 #save file
-write.csv(data3, file = "H66-3_finale_file.csv", row.names = F)
+write.csv(data3, file = "H65-2_finale_file.csv", row.names = F)
 
 ######################################final step clustering################################################
 #cluster analysis, finding groups and ensembles
