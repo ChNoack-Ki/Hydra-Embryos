@@ -2,7 +2,7 @@
 Sofware for Analysis: R, Python, MatLab
 
 1)Repositoy contains codes for analysing Hydra-embryo data, including first data processing and generation synchronization plots
-function.R is needed to run "Final-GCaMP6S-analysis-pipeline_batch.R"
+"function.R" is needed to run "Final-GCaMP6S-analysis-pipeline_batch.R"
  - 
 
 2) To run the code with the Leiden algorithm, Python is required. Install the leidenalg package as explained in 'How To Run Python From Matlab'.
