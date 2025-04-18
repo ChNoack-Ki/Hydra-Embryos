@@ -1,0 +1,16 @@
+This folder contains the raw data for each track of the calcium activity measurements including positioning data for each track (neuron). 
+Raw data is available as .xls files for single individuals at 13°C, 18°C and 23°C.
+
+Example:
+H85-5_4_tracks raw
+Hatchling-(consecutive number)_recoding time_tracks-raw
+
+Recording times:
+1- 0h
+2- 1,5h
+3- 3h
+4- 4,5h
+5- 6h
+6- 7,5h
+7- 1 day
+8- 10days
